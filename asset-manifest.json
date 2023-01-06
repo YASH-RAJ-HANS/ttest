@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/ttest/static/css/main.8805501d.css",
+    "main.js": "/ttest/static/js/main.181ac1a6.js",
+    "static/js/787.cb691ffa.chunk.js": "/ttest/static/js/787.cb691ffa.chunk.js",
+    "static/media/profile_avatar.png": "/ttest/static/media/profile_avatar.7798b1cafb4f362cc437.png",
+    "static/media/chairGif.gif": "/ttest/static/media/chairGif.bb9bd7ff1a68e8a630c8.gif",
+    "static/media/plankGIF.gif": "/ttest/static/media/plankGIF.50593daa5f6035e4cf0e.gif",
+    "static/media/icon.png": "/ttest/static/media/icon.e2e4d2cb5e8985a7257a.png",
+    "static/media/side_avatar.png": "/ttest/static/media/side_avatar.996848b772345b702bd4.png",
+    "static/media/absIcn.png": "/ttest/static/media/absIcn.7c8048362dbaf83cc61f.png",
+    "static/media/fullBody.png": "/ttest/static/media/fullBody.b3f7e64079668dfe837a.png",
+    "static/media/community.png": "/ttest/static/media/community.ee75df3593ba3d49a67e.png",
+    "static/media/advYoga.png": "/ttest/static/media/advYoga.f391f3a27de110149eb5.png",
+    "static/media/yoga-pose.png": "/ttest/static/media/yoga-pose.a260383bca8c8ae2ba3e.png",
+    "static/media/coin (1).png": "/ttest/static/media/coin (1).30d6542423ea12e7da20.png",
+    "static/media/coin.png": "/ttest/static/media/coin.00d6c2393a25eb6829d1.png",
+    "static/media/weightLossIcn.png": "/ttest/static/media/weightLossIcn.d1144a23f626ee651f3f.png",
+    "static/media/chairIcn.png": "/ttest/static/media/chairIcn.415f1e76606d6eeda270.png",
+    "static/media/woman.png": "/ttest/static/media/woman.5a5d18acf7b9aab27fdd.png",
+    "static/media/glassTime.png": "/ttest/static/media/glassTime.548810bebe5d78e705dc.png",
+    "static/media/clock.png": "/ttest/static/media/clock.dc550a9f52c407d30fa5.png",
+    "static/media/play.png": "/ttest/static/media/play.ae9287071c65a308fb86.png",
+    "static/media/calories.png": "/ttest/static/media/calories.07255765f92bba30976c.png",
+    "static/media/checked.png": "/ttest/static/media/checked.6f298cca57a5a8b36055.png",
+    "static/media/lock.png": "/ttest/static/media/lock.ed05dd7662fb55425e54.png",
+    "static/media/Pose1Plank.png": "/ttest/static/media/Pose1Plank.57fcec3c50c2f63f5d02.png",
+    "static/media/stats.png": "/ttest/static/media/stats.d8263308709692a9f635.png",
+    "index.html": "/ttest/index.html",
+    "main.8805501d.css.map": "/ttest/static/css/main.8805501d.css.map",
+    "main.181ac1a6.js.map": "/ttest/static/js/main.181ac1a6.js.map",
+    "787.cb691ffa.chunk.js.map": "/ttest/static/js/787.cb691ffa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8805501d.css",
+    "static/js/main.181ac1a6.js"
+  ]
+}
